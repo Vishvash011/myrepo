@@ -4,6 +4,11 @@ void bubbleSort()
 {
     //
 }
+
+void mergeSort()
+{
+    
+}
 int main()
 {
     cout<<"hello vishvash"<<endl;
